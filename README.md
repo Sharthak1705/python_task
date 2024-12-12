@@ -56,7 +56,7 @@ This project is a **Stock Portfolio Tracker and Trade Analyzer** designed to man
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-portfolio-tracker.git
+   git clone https://github.com/Sharthak1705/python_task
    cd stock-portfolio-tracker
    ```
 2. Set up your API key:
