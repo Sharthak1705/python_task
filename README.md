@@ -1,4 +1,4 @@
-d# Stock Portfolio Tracker and Trade Analyzer
+# Stock Portfolio Tracker and Trade Analyzer
 
 ## Overview
 This project is a **Stock Portfolio Tracker and Trade Analyzer** designed to manage and analyze stock portfolios using real-world data. The application provides insights, generates trade signals, and simulates trades based on historical and real-time stock data.
