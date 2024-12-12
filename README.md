@@ -54,10 +54,14 @@ This project is a **Stock Portfolio Tracker and Trade Analyzer** designed to man
    ```
 
 ### Steps
+  Create the directory using the command 
+ ```
+  mkdir filenamwe
+```
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sharthak1705/python_task
-   cd stock-portfolio-tracker
+   git clone https://github.com/Sharthak1705/python_task 
    ```
 2. Set up your API key:
    - Create an account on a stock API provider (e.g.,Finnhub).
@@ -65,10 +69,6 @@ This project is a **Stock Portfolio Tracker and Trade Analyzer** designed to man
      ```env
      API_KEY=your_api_key_here
      ```
-3. Run the program:
-   ```bash
-   python main.py
-   ```
 
 ## Future Enhancements
 - Integrate more advanced trading strategies.
